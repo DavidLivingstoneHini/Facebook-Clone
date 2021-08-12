@@ -1,5 +1,7 @@
 # Facebook Clone
 
+**A Facebook clone using ReactJs**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
